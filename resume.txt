@@ -2,3 +2,6 @@ SQLD
 정보처리기사
 네트워크관리사
 OPIc AL
+name : edwin
+age : 26
+
